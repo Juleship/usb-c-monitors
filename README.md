@@ -3,6 +3,7 @@ A readable list of USB-C monitors. I discovered that finding a USB-C monitor is 
 
 [DISCLAIMER] the Amazon links are affiliate links.
 
-Model | Brand | Cost | Resolution | Link 
------|-----|-----|-----|-----
-S2718D | Dell | ~400$ | 2560x1440 | https://amzn.to/2zwOsgb 
+Model | Brand | Cost | Size | Resolution | Link 
+-----|-----|-----|-----|-----|-----
+S2718D | Dell | ~400$ | 27 | 2560x1440 | https://amzn.to/2zwOsgb 
+P2719HC | Dell | ~300$ | 27 | 1920 x 1080 | https://amzn.to/2QsLOlw
