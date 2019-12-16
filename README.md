@@ -12,5 +12,6 @@ C34H890 | Samsung | ~500€ | 34 | 3440 x 1440 | [Amazon](https://amzn.to/2RI0R8
 C49J890 | Samsung | ~650€ | 49 | 3840x1080 | [Amazon](https://amzn.to/2B2qzNH)
 258B6QUEB | Philips | ~400€ | 25 | 2560x1440 | [Amazon](https://amzn.to/2PqIZN6)
 32UD89-W.AEU | LG | ~600€ | 32 | 3840 x 2160 | [Amazon](https://amzn.to/2QNUymx)
+27UD88-W | LG ~500€ | 27 | 3840 x 2160 | [Amazon](https://www.amazon.it/LG-27UD88-W-LED-Lit-Monitor-Type-C/dp/B01CDYB0QS)
 H277HK | Acer | ~500€ | 27 | 3840x2160 | [Amazon](https://amzn.to/2PpWmgx)
 ThinkVision P27h | Lenovo | ~350€ | 27 | 2560x1440 | [Amazon](https://amzn.to/2QMQNgQ)
